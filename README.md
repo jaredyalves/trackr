@@ -1,2 +1,3 @@
-# trackr
-Self-hosted media tracker for movies, shows, anime, and games.
+# Trackr
+
+This is a self-hosted application designed to aid in the management of movies, shows, anime, and games.
